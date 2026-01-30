@@ -22,5 +22,6 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->view('welcome_message');
 		//Este es un comentario
+		//Prueba Numero 2
 	}
 }
